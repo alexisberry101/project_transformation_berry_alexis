@@ -466,8 +466,8 @@ a:hover {
 
 #banner {
     margin: 0px auto;
-    width: 1000px;
-    height: 340px;
+    width: 100%;
+    height: auto; 
     background: url(../img/img03.png) no-repeat left bottom;
 }
 
