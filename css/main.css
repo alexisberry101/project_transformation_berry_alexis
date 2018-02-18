@@ -217,8 +217,11 @@ a:hover {
 
 .post {
     overflow: hidden;
-    margin-bottom: 40px;
     border-bottom: 1px solid #E7EBED;
+}
+
+.post + .post {
+  margin-top: 1.5em;
 }
 
 .post .title {
